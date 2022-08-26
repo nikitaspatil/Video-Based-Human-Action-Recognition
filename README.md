@@ -1,13 +1,11 @@
-# Online NITK website and management Software
-A replication of  https://nitk.ac.in/.
+# Video-Based Human Action Recognition
 
-Software Requirements : 
-    Browser : Google Chrome, Firefox, etc.
-    Code Editor : Visual Studio Code, Sublime Text, etc.
-   
-Technology Stack : 
-    Frontend : HTML, CSS, Javascript,Bootstrap
-    Backend : Python Django Framework.
-    Database : SQLite
-    
-Directory Structure - The Main Folder Contains subfolders for project and app, readme.md file. Within app folder, we have 3 folders : static - containing images, scripts and stylesheets; templates - containing HTML pages pycache : containing python logs; and files like views.py, urls.py, admin.py etc. Project folder contains 5 files : init.py : __init__.py, asgi.py, settings.py, urls.py, wsgi.py. Also, there is a database file db.sqlite3.
+– This project implements human action recognition on videos using a
+Convolutional Neural Network combined with a Long-Short Term
+Memory Network.
+– ConvLSTM and LRCN approaches are implemented and compared for
+this problem.
+– Technologies used: Numpy, Python, Tensorflow.
+
+- [Research Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9065078)
+
