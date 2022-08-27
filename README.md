@@ -19,5 +19,5 @@ LRCN:
 
 – Technologies used: Numpy, Python, Tensorflow.
 
-- [Research Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9065078)
+- [Reference Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9065078)
 
